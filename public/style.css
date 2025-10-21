@@ -49,7 +49,6 @@ body {
 .hero {
   height: 100vh;
   position: relative;
-  background-image: url('public/images/hero.jpg');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -72,6 +71,7 @@ body {
   backdrop-filter: blur(2px);
   z-index: 0;
 }
+
 
 /* Hero content */
 .hero-content {
